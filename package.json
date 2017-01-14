@@ -1,0 +1,26 @@
+{
+  "name": "siteshot-azure-storage-provider",
+  "version": "1.0.0",
+  "description": "Azure Storage provider for SiteShot",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiteShotApp/siteshot-azure-storage-provider.git"
+  },
+  "author": "dwnz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SiteShotApp/siteshot-azure-storage-provider/issues"
+  },
+  "homepage": "https://github.com/SiteShotApp/siteshot-azure-storage-provider#readme",
+  "dependencies": {
+    "async": "^2.1.4",
+    "azure-storage": "^1.4.0",
+    "config": "^1.24.0",
+    "siteshot-logger": "^1.0.0",
+    "siteshot-utils": "^1.0.0"
+  }
+}
